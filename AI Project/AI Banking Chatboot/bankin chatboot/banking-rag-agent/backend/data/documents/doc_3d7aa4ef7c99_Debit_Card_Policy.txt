@@ -1,0 +1,64 @@
+DEMOBANK - DEBIT CARD POLICY
+
+Section: Overview
+
+All DemoBank savings and current account holders receive a complimentary debit card linked to their account.
+
+Section: Card Types
+
+- Classic Debit Card: Standard ATM card with ₹25,000 daily limit
+- Platinum Debit Card: Premium card with ₹1,00,000 daily limit and lounge access
+- Business Debit Card: For current accounts, ₹2,00,000 daily limit
+
+Section: Daily Transaction Limits
+
+Classic Debit Card:
+- ATM withdrawal: ₹25,000 per day
+- POS/E-commerce: ₹50,000 per day
+- Contactless: ₹5,000 per transaction (₹25,000 daily)
+
+Platinum Debit Card:
+- ATM withdrawal: ₹50,000 per day
+- POS/E-commerce: ₹1,00,000 per day
+- International transactions: Enabled on request
+
+Section: PIN Generation and Security
+
+- Green PIN: Generate PIN at any DemoBank ATM using OTP sent to registered mobile
+- Never share PIN, CVV, or OTP with anyone
+- Enable transaction alerts via SMS and email
+- Set daily limits via mobile banking app
+
+Section: Card Not Working - Troubleshooting
+
+If your debit card is not working, try these steps:
+
+Step 1: Verify card is activated (new cards require activation via ATM or mobile app)
+Step 2: Check if card is blocked (view status in mobile banking > Cards)
+Step 3: Verify sufficient account balance
+Step 4: Check if daily transaction limit exceeded (reset via app)
+Step 5: For online transactions, ensure international/domestic e-commerce is enabled
+Step 6: Clean chip/contactless area and try again at POS terminal
+Step 7: Try a different ATM or POS terminal
+Step 8: If issue persists, call 1800-123-4567 or visit branch
+
+Common Issues:
+- "Insufficient funds": Check account balance
+- "Daily limit exceeded": Modify limits in mobile app or wait until next day
+- "Card blocked": Unblock via app or call helpline
+- "Invalid PIN": Reset PIN at DemoBank ATM using Green PIN
+- "Transaction declined - contact bank": Card may be blocked due to suspicious activity
+
+Section: Card Replacement
+
+- Damaged card: Free replacement, 7-10 business days
+- Lost/stolen: Block immediately, replacement fee ₹200
+- Expired card: Auto-renewed and dispatched 30 days before expiry
+
+Section: International Usage
+
+Enable international usage via:
+- Mobile app: Cards > International Usage > Enable
+- Net banking: Cards > Manage > International Transactions
+- Call helpline: 1800-123-4567
+Foreign transaction markup: 3.5% on all international transactions

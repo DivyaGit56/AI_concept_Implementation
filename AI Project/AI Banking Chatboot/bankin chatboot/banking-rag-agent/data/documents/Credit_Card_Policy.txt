@@ -1,0 +1,60 @@
+DEMOBANK - CREDIT CARD POLICY
+
+Section: Card Variants
+
+DemoBank offers the following credit cards:
+- Classic Card: Entry-level, annual fee ₹500 (waived on ₹50,000 annual spend)
+- Gold Card: Mid-tier, annual fee ₹1,500 (waived on ₹1,00,000 annual spend)
+- Platinum Card: Premium, annual fee ₹5,000 (waived on ₹3,00,000 annual spend)
+- Corporate Card: For business expenses, annual fee ₹2,500
+
+Section: Eligibility
+
+- Age: 21 to 65 years
+- Minimum annual income: ₹3,00,000 (Classic), ₹5,00,000 (Gold), ₹10,00,000 (Platinum)
+- CIBIL score: Minimum 750
+- Existing DemoBank relationship preferred
+
+Section: Credit Limits
+
+- Classic: ₹25,000 to ₹1,00,000
+- Gold: ₹1,00,000 to ₹3,00,000
+- Platinum: ₹3,00,000 to ₹10,00,000
+- Limits assigned based on income, credit score, and existing obligations
+
+Section: Interest and Charges
+
+- Interest rate on revolving credit: 3.49% per month (42% per annum)
+- Cash advance fee: 2.5% of amount (minimum ₹500)
+- Late payment fee: ₹750 to ₹1,200 based on outstanding
+- Over-limit fee: ₹500
+- Foreign transaction markup: 3.5%
+
+Section: Billing and Payment
+
+- Billing cycle: Monthly, statement generated on 1st of each month
+- Payment due date: 18 days from statement date
+- Minimum payment: 5% of total outstanding
+- Payment via auto-debit, net banking, UPI, or cheque
+
+Section: Rewards Program
+
+- Classic: 1 reward point per ₹100 spent
+- Gold: 2 reward points per ₹100 spent
+- Platinum: 3 reward points per ₹100 spent
+- 1 reward point = ₹0.25 redemption value
+- Bonus points on dining, fuel, and online shopping categories
+
+Section: Lost or Stolen Card
+
+Immediately block card via:
+- Mobile app: Cards > Block Card
+- Helpline: 1800-123-4567 (24/7)
+- SMS: BLOCK <last 4 digits> to 5676766
+Replacement card issued within 5-7 business days at no charge for first replacement per year
+
+Section: Dispute Resolution
+
+Report unauthorized transactions within 30 days of statement date.
+Provisional credit provided within 7 business days pending investigation.
+Full investigation completed within 45 days.

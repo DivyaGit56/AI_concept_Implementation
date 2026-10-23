@@ -1,0 +1,59 @@
+DEMOBANK - KYC (KNOW YOUR CUSTOMER) POLICY
+
+Section: Overview
+
+DemoBank complies with RBI Master Direction on KYC dated February 25, 2016 (updated). All customers must complete KYC verification before availing full banking services.
+
+Section: KYC Documents Required
+
+For Individual Customers:
+1. Proof of Identity: PAN Card (mandatory) + any one of Aadhaar/Passport/Voter ID/Driving License
+2. Proof of Address: Aadhaar/Utility Bill/Rental Agreement/Bank Statement (not older than 3 months)
+3. Recent passport-size photograph
+4. Form 60 (if PAN not available, with valid reason)
+
+For Non-Individual Entities:
+- Certificate of Incorporation
+- Memorandum and Articles of Association
+- Board Resolution for account opening
+- PAN of entity
+- KYC of authorized signatories
+- GST Registration (if applicable)
+
+Section: KYC Update Frequency
+
+- Low Risk customers: Every 10 years
+- Medium Risk customers: Every 8 years
+- High Risk customers: Every 2 years
+- Re-KYC must be completed within 30 days of notification
+
+Section: Video KYC Process
+
+DemoBank offers Video KYC for remote onboarding:
+1. Customer initiates Video KYC via mobile app or website
+2. Live interaction with authorized bank officer (5-10 minutes)
+3. Officer verifies identity documents on camera
+4. Geo-tagging and liveness detection performed
+5. KYC completed and account activated within 2 hours
+
+Section: CKYC (Central KYC)
+
+DemoBank participates in Central KYC Registry (CKYCR):
+- 14-digit KYC Identification Number (KIN) issued upon registration
+- KYC data shared across financial institutions with customer consent
+- Reduces duplicate KYC submissions
+
+Section: Consequences of Non-Compliance
+
+Accounts with incomplete or expired KYC will be:
+- Restricted from debit transactions after 30-day notice
+- Blocked from credit transactions after 60-day notice
+- Account frozen if KYC not updated within 90 days of notice
+
+Section: Document Verification Standards
+
+All documents must be:
+- Original documents presented for verification
+- Self-attested photocopies accepted for branch applications
+- E-documents via DigiLocker accepted for online applications
+- Documents in languages other than English/Hindi require certified translation

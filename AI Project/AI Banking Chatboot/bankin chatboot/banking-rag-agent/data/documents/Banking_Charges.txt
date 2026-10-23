@@ -1,0 +1,78 @@
+DEMOBANK - BANKING CHARGES AND FEES
+
+Section: Account Maintenance Charges
+
+Regular Savings Account:
+- Non-maintenance of minimum balance (₹5,000): ₹500 per quarter
+- Account dormancy (no transaction for 24 months): ₹200 per year
+
+Current Account:
+- Minimum average balance: ₹25,000
+- Non-maintenance penalty: ₹1,500 per quarter
+
+Section: Transaction Charges
+
+Cash Deposit:
+- Home branch: Free (up to ₹2 lakh per day)
+- Non-home branch: ₹5 per ₹1,000 (minimum ₹50)
+
+Cash Withdrawal:
+- Home branch: Free (up to ₹50,000 per day)
+- Non-home branch: ₹5 per ₹1,000 (minimum ₹50)
+
+Cheque Book:
+- First 25 leaves per year: Free
+- Additional cheque book: ₹3 per leaf
+
+Section: Digital Transaction Charges
+
+NEFT (via branch):
+- Up to ₹10,000: ₹2.50 + GST
+- ₹10,001 to ₹1 lakh: ₹5 + GST
+- Above ₹1 lakh: ₹25 + GST
+- NEFT via internet/mobile banking: Free
+
+RTGS (via branch):
+- ₹25 + GST (any amount)
+- RTGS via internet/mobile banking: Free
+
+IMPS:
+- Up to ₹1,000: Free
+- ₹1,001 to ₹1 lakh: ₹5 + GST
+- Above ₹1 lakh: ₹15 + GST
+
+UPI: Free for all transactions
+
+Section: Card Charges
+
+Debit Card:
+- Annual fee (Classic): Free
+- Annual fee (Platinum): ₹500 (waived on ₹50,000 annual spend)
+- Replacement (lost/stolen): ₹200
+- PIN regeneration at non-DemoBank ATM: ₹25
+
+Credit Card:
+- Classic annual fee: ₹500
+- Gold annual fee: ₹1,500
+- Platinum annual fee: ₹5,000
+- Cash advance: 2.5% (minimum ₹500)
+- Late payment: ₹750 to ₹1,200
+
+Section: Loan Processing Fees
+
+Personal Loan: 1% of loan amount + GST (minimum ₹2,500)
+Home Loan: 0.50% of loan amount + GST
+Education Loan: 0.50% of loan amount + GST (maximum ₹10,000)
+Vehicle Loan: 1% of loan amount + GST
+
+Section: Other Charges
+
+Demand Draft: ₹5 per ₹1,000 (minimum ₹50, maximum ₹15,000)
+Stop payment (cheque): ₹100 per instruction
+Account statement (branch): ₹100 per statement
+SMS alerts: ₹15 per quarter
+Physical passbook update: Free at branch
+
+Section: GST
+
+All charges are exclusive of GST at 18% unless stated otherwise.

@@ -1,0 +1,78 @@
+DEMOBANK - HOME LOAN POLICY
+
+Section: Overview
+
+DemoBank Home Loans finance purchase, construction, renovation, and balance transfer of residential properties.
+
+Section: Eligibility Criteria
+
+- Age: 21 to 65 years at loan maturity
+- Minimum annual income: ₹3,00,000 (individual) / ₹5,00,000 (joint application)
+- Minimum employment/business tenure: 2 years
+- CIBIL score: Minimum 750
+- Property must be within approved locations list
+
+Section: Loan Amount and Terms
+
+- Minimum loan: ₹5,00,000
+- Maximum loan: ₹5,00,00,000
+- LTV (Loan-to-Value): Up to 90% for loans up to ₹30 lakh, 80% for loans above ₹30 lakh
+- Tenure: Up to 30 years
+- Interest rate (floating): 8.50% to 9.75% per annum
+- Interest rate (fixed): 9.25% to 10.50% per annum (first 5 years)
+- Processing fee: 0.50% of loan amount + GST
+
+Section: Required Documents
+
+Applicant Documents:
+- PAN Card and Aadhaar Card
+- Last 6 months salary slips (salaried)
+- Last 2 years ITR (self-employed)
+- Last 12 months bank statements
+- Employment/business proof
+
+Property Documents:
+- Sale agreement / allotment letter
+- Approved building plan
+- Occupancy certificate (for ready properties)
+- Property tax receipts
+- Encumbrance certificate (last 13 years)
+- NOC from builder/society
+
+Section: Required Documents for Home Loan (Summary)
+
+For salaried applicants:
+1. Identity proof (PAN + Aadhaar)
+2. Address proof
+3. Last 6 months salary slips
+4. Form 16 for last 2 years
+5. Last 12 months bank statements
+6. Property documents as listed above
+
+For self-employed applicants:
+1. Identity and address proof
+2. Last 3 years ITR with computation
+3. Last 12 months bank statements (business and personal)
+4. Business registration proof
+5. Property documents as listed above
+
+Section: Application Process
+
+Step 1: Submit home loan application (HL-001 form)
+Step 2: Document verification and property legal check (5-7 days)
+Step 3: Property valuation by approved valuer
+Step 4: Credit appraisal and sanction (7-10 business days)
+Step 5: Sign loan agreement and register mortgage
+Step 6: Disbursement as per construction/purchase schedule
+
+Section: Tax Benefits
+
+- Section 80C: Deduction up to ₹1,50,000 on principal repayment
+- Section 24(b): Deduction up to ₹2,00,000 on interest payment (self-occupied)
+- Additional ₹1,50,000 under Section 80EEA for first-time homebuyers (conditions apply)
+
+Section: Prepayment
+
+- Floating rate loans: No prepayment penalty
+- Fixed rate loans: 2% penalty if prepaid within fixed rate period
+- Partial prepayment allowed once every 6 months (minimum ₹50,000)

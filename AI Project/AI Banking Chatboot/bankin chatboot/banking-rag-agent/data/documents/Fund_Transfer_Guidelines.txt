@@ -1,0 +1,83 @@
+DEMOBANK - FUND TRANSFER GUIDELINES
+
+Section: NEFT (National Electronic Funds Transfer)
+
+Availability: 24x7 including holidays (since December 2019)
+Minimum amount: No minimum
+Maximum amount: No maximum
+Settlement: Hourly batches, 24/7
+Charges (branch): ₹2.50 to ₹25 based on amount
+Charges (digital): Free
+
+How to transfer via NEFT:
+1. Add beneficiary in internet/mobile banking
+2. Wait 30 minutes for beneficiary activation (cooling period)
+3. Initiate NEFT transfer with beneficiary details
+4. Confirm with OTP
+5. Reference number generated for tracking
+
+Section: RTGS (Real Time Gross Settlement)
+
+Availability: 24x7 including holidays
+Minimum amount: ₹2,00,000
+Maximum amount: No maximum
+Settlement: Real-time
+Charges (branch): ₹25 + GST
+Charges (digital): Free
+
+Section: IMPS (Immediate Payment Service)
+
+Availability: 24x7
+Minimum amount: ₹1
+Maximum amount: ₹5,00,000 per transaction
+Settlement: Instant
+Charges: ₹5 to ₹15 based on amount
+
+IMPS using MMID:
+- Mobile number + 7-digit MMID required
+- Generate MMID via mobile banking app
+
+Section: UPI (Unified Payments Interface)
+
+Availability: 24x7
+Per transaction limit: ₹1,00,000 (may vary by bank)
+Daily limit: ₹1,00,000
+Charges: Free
+Supported apps: DemoBank UPI, Google Pay, PhonePe, Paytm
+
+Section: Internal Transfer
+
+Transfer between DemoBank accounts:
+- Free via all channels
+- Instant settlement
+- No beneficiary cooling period for own accounts
+
+Section: International Wire Transfer
+
+SWIFT transfers supported for outward remittance:
+- Processing time: 2-5 business days
+- Charges: ₹500 to ₹1,000 + correspondent bank charges
+- FEMA compliance required
+- Purpose code mandatory (LRS limit: USD 2,50,000 per year)
+
+Section: Transfer Limits (Digital Banking)
+
+Default daily limits:
+- NEFT/RTGS/IMPS: ₹10,00,000
+- UPI: ₹1,00,000
+- Increase limits: Visit branch with request form and ID proof
+
+Section: Failed Transfer Resolution
+
+If transfer fails but amount debited:
+- Amount auto-reversed within 24 hours for NEFT/RTGS
+- IMPS reversals within 1 hour
+- If not reversed, raise dispute via app or call 1800-123-4567
+- Provide transaction reference number and date
+
+Section: Beneficiary Management
+
+- Maximum 50 beneficiaries per account
+- Cooling period: 30 minutes for new beneficiaries (NEFT/RTGS)
+- No cooling period for IMPS up to ₹5,000
+- Delete beneficiary anytime via digital banking

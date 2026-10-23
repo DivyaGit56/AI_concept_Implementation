@@ -1,0 +1,87 @@
+DEMOBANK - COMPLAINT AND DISPUTE RESOLUTION PROCEDURES
+
+Section: Overview
+
+DemoBank is committed to resolving customer complaints fairly and promptly in accordance with RBI Banking Ombudsman Scheme 2021.
+
+Section: Complaint Channels
+
+Level 1 - Branch/Customer Care:
+- Visit home branch and submit written complaint
+- Call 24/7 helpline: 1800-123-4567
+- Email: support@demobank.com
+- Mobile app: Help > Raise Complaint
+- Website: demobank.com/complaints
+
+Level 2 - Grievance Redressal Officer (GRO):
+- Email: gro@demobank.com
+- Write to: Grievance Redressal Officer, DemoBank HQ, Mumbai - 400001
+- Response within 7 working days
+
+Level 3 - Principal Nodal Officer:
+- Email: pno@demobank.com
+- Response within 7 working days of GRO escalation
+
+Level 4 - Banking Ombudsman:
+- If not satisfied with bank's resolution within 30 days
+- File complaint at https://cms.rbi.org.in
+- Free of charge, decision binding on bank up to ₹20 lakh
+
+Section: Complaint Categories and Resolution Timelines
+
+Account-related issues: 7 working days
+ATM/Card disputes: 7 working days (provisional credit within 3 days)
+Fund transfer failures: 24-48 hours
+Loan processing delays: 15 working days
+Unauthorized transactions: 7 working days (provisional credit within 7 days)
+Service quality: 7 working days
+
+Section: How to File a Complaint
+
+Step 1: Gather details (account number, transaction reference, date, description)
+Step 2: Submit complaint through preferred channel
+Step 3: Receive complaint reference number (format: CMP-XXXXX)
+Step 4: Track status via app/website using reference number
+Step 5: Receive resolution within stipulated timeline
+Step 6: Escalate to next level if unsatisfied
+
+Section: Dispute Resolution for Unauthorized Transactions
+
+Report within 3 days of notification: Zero liability
+Report within 4-7 days: Maximum liability ₹10,000
+Report after 7 days: Liability as per bank investigation
+Customer negligence (shared PIN/OTP): Full liability
+
+Required information for dispute:
+- Transaction date and amount
+- Transaction reference number
+- Whether card/credentials were shared
+- Police complaint (for amounts above ₹25,000)
+
+Section: Complaint Tracking
+
+Track complaint status:
+- Mobile app: Help > My Complaints
+- Website: demobank.com/track-complaint
+- SMS updates at each stage
+- Email notification on resolution
+
+Section: Compensation Policy
+
+For service deficiency causing financial loss:
+- Interest at savings rate for delayed credit
+- Refund of erroneous charges with interest
+- Compensation up to ₹1,000 for documented mental agony (Ombudsman cases)
+
+Section: Feedback
+
+After complaint resolution, customers receive feedback survey.
+Persistent issues may be escalated to Customer Service Committee.
+
+Section: Support Ticket Creation
+
+For unresolved issues via AI chat support:
+- Support ticket automatically created with ID (format: TKT-XXXXX)
+- Assigned to customer service team within 24 hours
+- Updates sent via SMS and email
+- Target resolution: 3-5 business days

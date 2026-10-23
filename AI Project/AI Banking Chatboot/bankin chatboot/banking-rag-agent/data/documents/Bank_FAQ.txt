@@ -1,0 +1,50 @@
+DEMOBANK - FREQUENTLY ASKED QUESTIONS (FAQ)
+
+Section: General Banking Information
+
+Q: What are DemoBank's operating hours?
+A: DemoBank branches operate Monday to Friday, 9:00 AM to 5:00 PM, and Saturday 9:00 AM to 1:00 PM. Internet and mobile banking are available 24/7.
+
+Q: How can I contact customer support?
+A: Call our 24/7 helpline at 1800-123-4567, email support@demobank.com, or use the in-app chat support feature.
+
+Q: Is my money safe with DemoBank?
+A: Yes. DemoBank is regulated by the Reserve Bank of India (RBI) and deposits are insured up to ₹5 lakh per depositor under DICGC guidelines.
+
+Section: Account Services
+
+Q: What types of accounts does DemoBank offer?
+A: DemoBank offers Savings Accounts, Current Accounts, Salary Accounts, Senior Citizen Accounts, and Minor Accounts.
+
+Q: What is the minimum balance for a savings account?
+A: Regular savings accounts require a minimum average monthly balance of ₹5,000. Basic savings accounts have zero minimum balance requirements.
+
+Q: How do I close my account?
+A: Visit your home branch with valid ID proof, submit an account closure form, settle all dues, and surrender unused cheque books and debit cards.
+
+Section: Digital Banking
+
+Q: How do I register for internet banking?
+A: Visit demobank.com/register, enter your account number and registered mobile number, verify OTP, and set your login credentials.
+
+Q: What if I forget my internet banking password?
+A: Click "Forgot Password" on the login page, verify your identity via OTP sent to your registered mobile, and create a new password.
+
+Q: Is mobile banking secure?
+A: Yes. DemoBank mobile banking uses 256-bit SSL encryption, biometric authentication, and transaction OTP verification.
+
+Section: Cards
+
+Q: How long does it take to receive a new debit card?
+A: Debit cards are typically delivered within 7-10 business days after account opening or card request.
+
+Q: What should I do if my card is lost or stolen?
+A: Immediately block your card via mobile banking, internet banking, or by calling 1800-123-4567. Request a replacement card through your branch or online.
+
+Section: Loans
+
+Q: What types of loans does DemoBank offer?
+A: DemoBank offers Personal Loans, Home Loans, Education Loans, Vehicle Loans, and Business Loans.
+
+Q: Can I prepay my loan?
+A: Yes. Personal loans can be prepaid after 12 EMIs with a 2% prepayment charge. Home loans have no prepayment penalty for floating rate loans.

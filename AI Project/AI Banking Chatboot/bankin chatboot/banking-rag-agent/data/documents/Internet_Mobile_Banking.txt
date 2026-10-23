@@ -1,0 +1,83 @@
+DEMOBANK - INTERNET AND MOBILE BANKING GUIDELINES
+
+Section: Registration
+
+Internet Banking:
+1. Visit demobank.com and click "Register"
+2. Enter account number, registered mobile, and debit card details
+3. Set User ID and password (minimum 8 characters, must include uppercase, lowercase, number, special character)
+4. Verify via OTP
+5. Login credentials activated immediately
+
+Mobile Banking:
+1. Download "DemoBank Mobile" from App Store or Google Play
+2. Register using account number and registered mobile
+3. Set MPIN (6-digit mobile PIN)
+4. Enable biometric login (optional)
+5. Activate via OTP
+
+Section: Security Features
+
+- 256-bit SSL encryption for all sessions
+- Two-factor authentication (OTP) for transactions
+- Auto-logout after 5 minutes of inactivity
+- Device binding for mobile app
+- Transaction alerts via SMS and push notification
+- Fraud detection system monitors unusual activity
+
+Section: Available Services
+
+Internet Banking:
+- Account summary and statements
+- Fund transfers (NEFT, RTGS, IMPS, internal)
+- Bill payments and recharges
+- Fixed deposit booking
+- Loan EMI payment
+- Cheque book request and stop payment
+- Debit/credit card management
+- Tax payment (direct and indirect)
+- Investment in mutual funds and insurance
+
+Mobile Banking:
+- All internet banking features
+- UPI payments and QR scanning
+- Cardless cash withdrawal
+- Instant account opening (Video KYC)
+- Branch/ATM locator
+- Chat support with AI assistant
+
+Section: Transaction Limits
+
+Default limits (can be modified at branch):
+- Fund transfer: ₹10,00,000 per day
+- Bill payment: ₹1,00,000 per day
+- Merchant payment: ₹1,00,000 per day
+- Add beneficiary: 5 per day
+
+Section: Troubleshooting
+
+Login Issues:
+- Forgot password: Use "Forgot Password" link, verify via OTP
+- Account locked after 3 wrong attempts: Auto-unlock after 24 hours or call helpline
+- OTP not received: Check registered mobile, request resend after 60 seconds
+
+App Issues:
+- Clear app cache and restart
+- Update to latest version
+- Re-register if device changed
+- Contact support@demobank.com with error screenshot
+
+Section: Safe Banking Practices
+
+- Never share login credentials, OTP, or MPIN
+- Do not click links in unsolicited SMS/emails
+- Always type demobank.com directly in browser
+- Log out after each session on shared devices
+- Report suspicious activity immediately to 1800-123-4567
+
+Section: De-registration
+
+To deactivate internet/mobile banking:
+- Visit home branch with written request and ID proof
+- Or call helpline for temporary deactivation
+- Re-registration requires branch visit or Video KYC

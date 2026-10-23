@@ -1,0 +1,37 @@
+Raw Text
+   ↓
+1. Data Collection
+   ↓
+2. Text Cleaning
+   ↓
+3. Sentence Segmentation
+   ↓
+4. Tokenization
+   ↓
+5. Stop-word Removal
+   ↓
+6. Normalization
+   ↓
+7. Stemming / Lemmatization
+   ↓
+8. Feature Extraction
+   ├── Bag of Words
+   ├── TF-IDF
+   ├── Word2Vec
+   ├── GloVe
+   └── Transformer Embeddings
+   ↓
+9. Model Building
+   ├── ML Models
+   ├── Deep Learning
+   └── Transformers
+   ↓
+10. Training
+   ↓
+11. Evaluation
+   ↓
+12. Prediction
+   ↓
+13. Deployment
+   ↓
+14. Monitoring & Improvement

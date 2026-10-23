@@ -1,0 +1,60 @@
+DEMOBANK - INTEREST RATES (Effective September 2026)
+
+Section: Savings Account Interest Rates
+
+Regular Savings Account: 3.50% per annum (calculated on daily balance, credited quarterly)
+Senior Citizen Savings Account: 4.00% per annum
+Salary Account: 3.50% per annum
+Basic Savings (BSBD): 3.50% per annum
+
+Section: Fixed Deposit (FD) Interest Rates
+
+Tenure 7-45 days: 3.00% p.a.
+Tenure 46-90 days: 4.00% p.a.
+Tenure 91-180 days: 4.50% p.a.
+Tenure 181-364 days: 5.50% p.a.
+Tenure 1 year: 6.75% p.a.
+Tenure 2 years: 7.00% p.a.
+Tenure 3 years: 7.10% p.a.
+Tenure 5 years: 7.25% p.a.
+
+Senior Citizen Additional Rate: +0.50% on all FD tenures
+
+Section: Recurring Deposit (RD) Rates
+
+Tenure 6 months to 10 years: Same as FD rates for corresponding tenure
+Minimum monthly installment: ₹500
+Maximum: No limit
+
+Section: Loan Interest Rates
+
+Personal Loan: 10.50% to 18.00% p.a. (based on credit score)
+Home Loan (Floating): 8.50% to 9.75% p.a.
+Home Loan (Fixed - 5 years): 9.25% to 10.50% p.a.
+Education Loan: 9.00% to 12.50% p.a.
+Vehicle Loan: 8.75% to 11.50% p.a.
+Business Loan: 12.00% to 18.00% p.a.
+
+Section: Overdraft Interest Rates
+
+Overdraft against FD: FD rate + 1.00%
+Overdraft against property: 10.50% to 12.00% p.a.
+Clean overdraft (pre-approved): 14.00% to 16.00% p.a.
+
+Section: Important Notes
+
+- Interest rates are subject to change based on RBI policy and bank discretion
+- Rates applicable at time of booking apply for entire FD tenure
+- Premature FD withdrawal: 1% penalty on applicable rate
+- TDS applicable if interest exceeds ₹40,000 per year (₹50,000 for senior citizens)
+
+Section: MCLR (Marginal Cost of Funds Based Lending Rate)
+
+Current MCLR (September 2026):
+- Overnight: 8.10%
+- 1 Month: 8.15%
+- 3 Months: 8.25%
+- 6 Months: 8.35%
+- 1 Year: 8.50%
+
+All floating rate loans are linked to 1-Year MCLR + spread.
